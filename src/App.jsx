@@ -117,7 +117,7 @@ function App() {
       <div className="logout-bar">
         <div>
           <h1>Rapido Dashboard</h1>
-          <p style={{color: 'var(--primary)', textAlign: 'left', fontWeight: '600'}}>Hi Kalyan 👋</p>
+          <p style={{color: 'var(--primary)', textAlign: 'left', fontWeight: '600'}}>welcome Kalyan 👋</p>
         </div>
         <button className="logout-btn" onClick={handleLogout}>Logout</button>
       </div>
