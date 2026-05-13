@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'http://13.232.202.168:8000';
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
